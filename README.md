@@ -1,2 +1,2 @@
 # ultimate-app
-ultimate app example 
+ultimate app examples
